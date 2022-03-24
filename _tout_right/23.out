@@ -1,0 +1,1 @@
+2022-03-24 17:58:34,356 [main] ERROR org.apache.spark.sql.hive.thriftserver.SparkSQLCLIDriver - Could not open input file for reading. (File file:/Users/shenyijie/plgd/testenv/_workspace/q23 does not exist)
